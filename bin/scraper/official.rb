@@ -6,18 +6,35 @@ require 'pry'
 
 class MemberList
   class Member
-    def name
-      noko.css('.name').text.tidy
+    field :name do
+      noko.css('h2').text.tidy
     end
 
-    def position
-      noko.css('.position').text.tidy
+    field :position do
+      return ministry.sub('Ministry', 'Minister') if role == 'Union Minister'
+      return ministry.sub('Ministry', 'Deputy Minister') if role == 'Deputy Minister'
+
+      role
+    end
+
+    private
+
+    def role
+      noko.css('p').text.tidy
+    end
+
+    def ministry
+      noko.xpath('ancestor::div[@class="mb-10"][1]//h2').first.text rescue nil
     end
   end
 
   class Members
+    def member_items
+      super.reject { |mem| mem.name =~ /(Ministry|Government)/ }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.p-2')
     end
   end
 end
