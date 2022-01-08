@@ -1,3 +1,5 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q24907948,First Htin Kyaw's Cabinet,2016-03-30,11,,,2018-03-30,11,,,Q5015506,Cabinet of Myanmar,,,Q30595639,Thein Sein's Cabinet,Q53843838,Win Myint's Cabinet,,,,
-,Q53843838,Win Myint's Cabinet,2018-03-30,11,,,2021-02-01,11,,,Q5015506,Cabinet of Myanmar,,,Q24907948,First Htin Kyaw's Cabinet,Q105222924,Min Aung Hlaing's Military Cabinet,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q30595639,Thein Sein's Cabinet,,,,,,,,,,,Q24907948,First Htin Kyaw's Cabinet,,,,
+,Q24907948,First Htin Kyaw's Cabinet,2016-03-30,11,,,2018-03-30,11,,,Q30595639,Thein Sein's Cabinet,Q53843838,Win Myint's Cabinet,,,,
+,Q53843838,Win Myint's Cabinet,2018-03-30,11,,,2021-02-01,11,,,Q24907948,First Htin Kyaw's Cabinet,Q105222924,Min Aung Hlaing's Military Cabinet,,,,
+,Q105222924,Min Aung Hlaing's Military Cabinet,2021-02-01,11,,,,,,,Q53843838,Win Myint's Cabinet,,,,,,
