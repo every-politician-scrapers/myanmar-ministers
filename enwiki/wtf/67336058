@@ -1,0 +1,308 @@
+{
+  "title": "Kyaw Zwar Minn",
+  "pageID": 67336058,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Ambassadors of Myanmar to Andorra",
+    "Ambassadors of Myanmar to Denmark",
+    "Ambassadors of Myanmar to France",
+    "Ambassadors of Myanmar to Ireland",
+    "Ambassadors of Myanmar to Spain",
+    "Ambassadors of Myanmar to Sweden",
+    "Ambassadors of Myanmar to Switzerland",
+    "Ambassadors of Myanmar to the United Kingdom",
+    "Burmese diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kyaw Zwar Minn (ဦးကျော်စွာမင်း U Kyaw Zwar Minn) is a Burmese diplomat who is serving as Ambassador of Myanmar to the United Kingdom, and non-resident Ambassador to Sweden, Ireland and Denmark since 2013.",
+              "links": [
+                {
+                  "text": "Ambassador of Myanmar to the United Kingdom",
+                  "type": "internal",
+                  "page": "List of ambassadors of Myanmar to the United Kingdom"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kyaw Zwar Minn"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In response to the coup d'état carried out in Myanmar on 1st February 2021, Ambassador Kyaw Zwar Minn publicly demanded, on 8 March, the release of State Counsellor Aung San Suu Kyi and President Win Myint with denying the legitimacy of the junta's rule.",
+              "links": [
+                {
+                  "text": "coup d'état carried out in Myanmar on 1st February 2021",
+                  "type": "internal",
+                  "page": "2021 Myanmar coup d'état"
+                },
+                {
+                  "text": "State Counsellor",
+                  "type": "internal",
+                  "page": "State Counsellor of Myanmar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aung San Suu Kyi"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Myanmar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Win Myint"
+                },
+                {
+                  "text": "junta",
+                  "type": "internal",
+                  "page": "State Administration Council"
+                }
+              ]
+            },
+            {
+              "text": "Myanmar recalled Kyaw Zwar Minn on 9 March 2021, after he publicly called for the release of jailed State Counsellor Aung San Suu Kyi."
+            },
+            {
+              "text": "He refused to return to Myanmar citing safety concerns."
+            },
+            {
+              "text": "On 7 April 2021, Minn was locked out of the Embassy of Myanmar in London.",
+              "links": [
+                {
+                  "text": "Embassy of Myanmar in London",
+                  "type": "internal",
+                  "page": "Embassy of Myanmar, London"
+                }
+              ]
+            },
+            {
+              "text": "British Foreign Secretary Dominic Raab condemned the \"bullying actions of the Myanmar military regime\", but the Foreign Office has stated that it \"must accept the decision taken by the Myanmar regime\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominic Raab"
+                },
+                {
+                  "text": "Foreign Office",
+                  "type": "internal",
+                  "page": "Foreign, Commonwealth and Development Office"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He previously served as Burmese Ambassador to France, and non-resident Ambassador to Andorra, Spain and Switzerland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andorra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Switzerland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "lang": "Burmese",
+          "list": [
+            "Kyaw Zwar Minn"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1958",
+          "month": "6",
+          "day": "2",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Kyaw Zwar Minn\nဦးကျော်စွာမင်း"
+          },
+          "image": {
+            "text": "Kyaw Zwar Minn.jpg"
+          },
+          "office": {
+            "text": "Ambassador of Myanmar to the United Kingdom",
+            "links": [
+              {
+                "text": "Ambassador of Myanmar to the United Kingdom",
+                "type": "internal",
+                "page": "List of ambassadors of Myanmar to the United Kingdom"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 October 2013"
+          },
+          "predecessor": {
+            "text": "Than Htike (Chargé d'affaires)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Than Htike"
+              },
+              {
+                "type": "internal",
+                "page": "Chargé d'affaires"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Ambassador of Myanmar to France",
+            "links": [
+              {
+                "text": "Ambassador of Myanmar to France",
+                "type": "internal",
+                "page": "List of ambassadors of Myanmar to France"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 June 2011"
+          },
+          "term_end2": {
+            "text": "7 April 2021"
+          },
+          "predecessor2": {
+            "text": "Saw Hla Min",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saw Hla Min"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Han Thu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Han Thu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 2, 1958"
+          },
+          "birth_place": {
+            "text": "Union of Burma (now Myanmar)",
+            "links": [
+              {
+                "text": "Union of Burma",
+                "type": "internal",
+                "page": "Post-independence Burma (1948–1962)"
+              },
+              {
+                "type": "internal",
+                "page": "Myanmar"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Kyaw Zwar Minn"
+          },
+          "profession": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Drawing praise, Myanmar's ambassador to UK calls for release of Aung San Suu Kyi",
+          "url": "https://www.reuters.com/article/us-myanmar-politics-britain/drawing-praise-myanmars-ambassador-to-uk-calls-for-release-of-aung-san-suu-kyi-idUSKBN2B0281",
+          "website": "Reuters",
+          "date": "8 March 2021",
+          "access-date": "8 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Myanmar recalls ambassador in UK after he called for release of detained leader Aung San Suu Kyi",
+          "url": "https://news.sky.com/story/myanmar-recalls-ambassador-in-uk-after-he-called-for-release-of-detained-leader-aung-san-suu-kyi-12240972",
+          "website": "Sky News",
+          "access-date": "8 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Myanmar's UK envoy says military attache has 'occupied' embassy",
+          "work": "BBC News",
+          "date": "8 April 2021",
+          "url": "https://www.bbc.co.uk/news/world-asia-56670524",
+          "access-date": "8 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-04-08",
+          "title": "Myanmar's ex-UK envoy says military attaché has 'occupied' embassy",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-asia-56670524",
+          "access-date": "2021-04-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Speakers",
+          "url": "https://britishchambermyanmar.glueup.com/event/exporting-to-the-uk-28923/speakers.html",
+          "website": "British Chamber of Commerce Myanmar",
+          "access-date": "8 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "myanmar-bio-stub"
+        }
+      ]
+    }
+  ]
+}
